@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main/jam_gadang.unity
+    guid: 1e8396f8e621c0d499e06c0ab313788d
   - enabled: 1
-    path: Assets/Scenes/monas.unity
-    guid: fc33d445506a1ce48aa8506d2467b60e
+    path: Assets/Scenes/menu/Homepage.unity
+    guid: a9d946a5a3acdba4aa0c8199abf00d2e
   m_configObjects: {}
