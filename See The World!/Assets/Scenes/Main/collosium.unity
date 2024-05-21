@@ -756,7 +756,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1284796017}
   m_CullTransparentMesh: 1
---- !u!1 &1704485848
+--- !u!1 &1753224364
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -764,8 +764,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1704485850}
-  - component: {fileID: 1704485849}
+  - component: {fileID: 1753224366}
+  - component: {fileID: 1753224365}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -773,13 +773,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!108 &1704485849
+--- !u!108 &1753224365
 Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1704485848}
+  m_GameObject: {fileID: 1753224364}
   m_Enabled: 1
   serializedVersion: 10
   m_Type: 1
@@ -835,13 +835,13 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!4 &1704485850
+--- !u!4 &1753224366
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1704485848}
+  m_GameObject: {fileID: 1753224364}
   serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
   m_LocalPosition: {x: 0, y: 3, z: 0}
@@ -1327,9 +1327,9 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1704485850}
   - {fileID: 2120374370}
   - {fileID: 1900308112}
   - {fileID: 797302949}
   - {fileID: 1909483860}
   - {fileID: 79590905}
+  - {fileID: 1753224366}
