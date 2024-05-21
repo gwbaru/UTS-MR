@@ -890,7 +890,7 @@ GameObject:
   - component: {fileID: 1510271929}
   - component: {fileID: 1510271928}
   m_Layer: 0
-  m_Name: Image (1)
+  m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -905,14 +905,14 @@ RectTransform:
   m_GameObject: {fileID: 1510271926}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9999899, y: 0.9999899, z: 0.9999899}
+  m_LocalScale: {x: 2.0223944, y: 2.0223944, z: 2.0223944}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 845356554}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000022888184, y: -0.000045776367}
+  m_AnchoredPosition: {x: 44, y: -411}
   m_SizeDelta: {x: 1080, y: 1920}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1510271928
