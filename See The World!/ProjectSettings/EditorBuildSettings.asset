@@ -17,34 +17,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu/menu_kredit.unity
     guid: 8b39c49253350e34894d153ec0f26da6
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/jam_gadang.unity
     guid: 1e8396f8e621c0d499e06c0ab313788d
   - enabled: 1
     path: Assets/Scenes/Main/angkor_wat.unity
     guid: c557d204d8c61e647a1ee2bbd0a0a4af
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/borobudur.unity
     guid: 42610386e74c36e42aaf3162aeb9c925
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/collosium.unity
     guid: 1ef0b3d27bd9c4b4ba5e71abab25f74a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/hagia_sophia.unity
     guid: a6d69a11cc93209418ea261c3031a35e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/istiqlal.unity
     guid: 6f1f2cbcac8eb7e4d90ab12421f347ae
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/menara_pisa.unity
     guid: cd3f2fc35a1d8b345a6c56937da88422
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/monas.unity
     guid: fc33d445506a1ce48aa8506d2467b60e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/pyramid.unity
     guid: 61d638ac341dde442b964e13b84eac18
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main/tajmahal.unity
     guid: 5517f23f6724a634d96dc247e458df9f
   m_configObjects: {}
