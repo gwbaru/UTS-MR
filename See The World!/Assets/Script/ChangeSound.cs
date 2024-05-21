@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class ChangeSound : MonoBehaviour
 {
-    private Sprite soundOnImage;
-    public Sprite soundOffImage;
+    private Sprite soundOffImage;
+    public Sprite soundOnImage;
     public Button button;
     private bool isOn = true;
 
@@ -14,22 +14,22 @@ public class ChangeSound : MonoBehaviour
 
     void Start()
     {
-        soundOnImage = button.image.sprite;
+        soundOffImage = button.image.sprite;
     }
 
     public void ButtonClicked()
     {
         if (isOn)
         {
-            button.image.sprite = soundOffImage;
+            button.image.sprite = soundOnImage;
             isOn = false;
-            audiosource.Stop();
+            audiosource.Play();
         }
         else
         {
-            button.image.sprite = soundOnImage;
+            button.image.sprite = soundOffImage;
             isOn = true;
-            audiosource.Play();
+            audiosource.Stop();
         }
     }
 }

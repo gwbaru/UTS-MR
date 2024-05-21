@@ -313,7 +313,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 60bee3363688ece4088404bb4d151933, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5bd8c6f4f9060d44a84a8353e0267767, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -343,7 +343,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daf8db855d662d448a0b1a56a3dd4189, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundOffImage: {fileID: 21300000, guid: 5bd8c6f4f9060d44a84a8353e0267767, type: 3}
+  soundOnImage: {fileID: 21300000, guid: 60bee3363688ece4088404bb4d151933, type: 3}
   button: {fileID: 162696677}
   audiosource: {fileID: 1408340321}
 --- !u!1 &203876272
@@ -775,8 +775,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e11711133a0567f4b83d6d94834f8c7e, type: 3}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 164bdacd5f54f4847a4c65dcbb106a0a, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
